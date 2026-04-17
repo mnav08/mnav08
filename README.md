@@ -1,39 +1,118 @@
-# Hi World 👋
-My name is Moises I am a software development student based in Chicago. I am passionate about technology and coding; I love creating new projects, learn new programming concepts and push myself to be a better developer little by little.
+# 👨‍💻 Moises Navas
 
-## My tech stack
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- SQL
+**Front End Developer in progress | Chicago, IL**
 
-## Projects
-- 🔭 Currently working on:
-A web application for mental health and wellness. It collects data from users based on daily check-ins on a scale from 1-5 (1 being bad 5 being good). Users can get insights about their habits and mood after 30 days. The user's inputs are mood, hydration, sleep and energy throughout the day. 
-    - The tech stack for this project is HTML + CSS + JS. 
-    - The core programming concepts implemented are DOM manipulation, arrays, objects, data manipulation.
+I build clean, responsive, and user focused web experiences using modern HTML, CSS, and JavaScript.  
+Currently leveling up through real projects, focusing on strong fundamentals, performance, and UI clarity.
 
-- I’m looking to collaborate on \
- open source project that has a meaningful impact on the community
+---
 
-### Hobbies 🍃⚽
-> "The time you enjoy wasting is not wasted time" - Bertrand Russell
+## 🚀 About Me
 
-I love to spend time in nature, going into roadtrips, play soccer, watch harry potter movies and practicing my coding skills
+* Software Development student at Wilbur Wright College  
+* Currently completing the Front End Engineer path on Codecademy  
+* Hands on experience building responsive websites and interactive UI  
+* Interested in meaningful products that improve everyday life  
 
+I don’t just learn concepts. I apply them through projects and iteration.
 
-<!--
-**mnav08/mnav08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+* HTML5  
+* CSS3  
+* JavaScript  
+* Java  
+* Python  
+* SQL  
+
+**Frontend**
+* Responsive Design  
+* Semantic HTML  
+* Flexbox & Grid  
+* DOM Manipulation  
+* Tailwind CSS  
+
+**Tools**
+* Git & GitHub  
+* VS Code  
+* Figma  
+* Linux (Ubuntu)  
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Mood Map App (In Progress)
+A wellness web app that helps users track mood and habits over time.
+
+* Daily check ins (mood, sleep, hydration, energy)  
+* Data visualization after 30 days  
+* Focus on pattern recognition and self awareness  
+
+**Built with:** HTML, CSS, JavaScript  
+**Concepts:** DOM manipulation, arrays, objects, data handling  
+
+---
+
+### ⚽ Fire Pitch
+Responsive website for a Chicago soccer league organizer.
+
+* Semantic HTML structure  
+* Flexbox layout  
+* Card based UI  
+* Media queries and transitions  
+
+---
+
+### 🏃 Run The City
+Interactive landing page for a fictional running community.
+
+* Grid photo gallery  
+* Email sign up form  
+* Responsive layout  
+* JavaScript DOM interactions  
+
+---
+
+### ⛽ Roadtrip Gas Calculator
+Java desktop application to calculate travel costs.
+
+* Built with Java Swing  
+* Event driven programming  
+* OOP structure with separate logic classes  
+* Input validation and error handling  
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on projects that:
+
+* Have real world impact  
+* Help people improve their daily lives  
+* Push my frontend skills further  
+
+---
+
+## 🌱 Outside of Code
+
+> "The time you enjoy wasting is not wasted time." — Bertrand Russell
+
+* Nature and road trips  
+* Soccer  
+* Movies (yes, Harry Potter)  
+* Constant self improvement  
+
+---
+
+## 📫 Let’s Connect
+
+* GitHub: https://github.com/mnav08  
+* Email: navas.20moi@gmail.com  
+
+---
+
+⭐ If you like my work or want to collaborate, feel free to reach out
