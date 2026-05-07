@@ -1,6 +1,6 @@
 # 👨‍💻 Moises Navas
 
-**Front End Developer in progress | Chicago, IL**
+**Front End Developer in progress**
 
 I build clean, responsive, and user focused web experiences using modern HTML, CSS, and JavaScript.  
 Currently leveling up through real projects, focusing on strong fundamentals, performance, and UI clarity.
@@ -9,13 +9,10 @@ Currently leveling up through real projects, focusing on strong fundamentals, pe
 
 ## 🚀 About Me
 
-* Software Development student at Wilbur Wright College  
+* Software Development student
 * Currently completing the Front End Engineer path on Codecademy  
 * Hands on experience building responsive websites and interactive UI  
 * Interested in meaningful products that improve everyday life  
-
-I don’t just learn concepts. I apply them through projects and iteration.
-
 ---
 
 ## 🧠 Tech Stack
@@ -92,19 +89,7 @@ Java desktop application to calculate travel costs.
 I’m open to collaborating on projects that:
 
 * Have real world impact  
-* Help people improve their daily lives  
 * Push my frontend skills further  
-
----
-
-## 🌱 Outside of Code
-
-> "The time you enjoy wasting is not wasted time." — Bertrand Russell
-
-* Nature and road trips  
-* Soccer  
-* Movies (yes, Harry Potter)  
-* Constant self improvement  
 
 ---
 
