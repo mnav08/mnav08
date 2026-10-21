@@ -30,7 +30,8 @@ Currently leveling up through real projects, focusing on strong fundamentals, pe
 * Semantic HTML  
 * Flexbox & Grid  
 * DOM Manipulation  
-* Tailwind CSS  
+* Tailwind CSS
+* React
 
 **Tools**
 * Git & GitHub  
