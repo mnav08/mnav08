@@ -2,7 +2,7 @@
 
 **Front End Developer in progress**
 
-I build clean, responsive, and user focused web experiences using modern HTML, CSS, and JavaScript.  
+I build clean, responsive, and user focused web experiences using vanilla JS development or React.  
 Currently leveling up through real projects, focusing on strong fundamentals, performance, and UI clarity.
 
 ---
@@ -10,7 +10,7 @@ Currently leveling up through real projects, focusing on strong fundamentals, pe
 ## 🚀 About Me
 
 * Software Development student
-* Currently completing the Front End Engineer path on Codecademy  
+* Currently completing the Front End Engineer path on Codecademy and a AAS in Software development at college
 * Hands on experience building responsive websites and interactive UI  
 * Interested in meaningful products that improve everyday life  
 ---
